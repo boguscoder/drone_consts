@@ -1,0 +1,1 @@
+Shared consts, strings and aux types between simplest_drone and drone_plotter projects
