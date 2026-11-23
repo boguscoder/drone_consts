@@ -9,7 +9,6 @@ pub mod telemetry {
     pub enum Mode {
         None = 0,
         Imu,
-        Baro,
         Rc,
         Attitude,
         Pid,
